@@ -1,0 +1,33 @@
+
+[
+    {
+        "student_id": "S101",
+        "name": "Rishabh",
+        "department": "CSE",
+        "marks": [78, 65, 88]
+    },
+    {
+        "student_id": "S102",
+        "name": "Vipin",
+        "department": "CSE",
+        "marks": [35, 72, 61]
+    },
+    {
+        "student_id": "S103",
+        "name": "Rahul",
+        "department": "IT",
+        "marks": [85, 90, 76]
+    },
+    {
+        "student_id": "S104",
+        "name": "Tarun",
+        "department": "CSE",
+        "marks": [110, 65, 70]
+    },
+    {
+        "student_id": "S101",
+        "name": "Udit",
+        "department": "IT",
+        "marks": [70, 80, 90]
+    }
+]
